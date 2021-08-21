@@ -1,4 +1,4 @@
-### Olá! meu nome é Michael Philipe
+### Hi! My name is Michael and my goal is to be a good developer, work with a great team, help my family and travel a lot
 <div>
   <a href="https://github.com/Michael-Philipe">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Michael-Philipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=08B8DC&text_color=C8DEE4&bg_color=1A1A1A">
