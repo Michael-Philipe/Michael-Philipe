@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Michael-Philipe">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Michael-Philipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=08B8DC&text_color=C8DEE4&bg_color=1A1A1A"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIchael-Philipe&layout=compact&langs_count=7&theme=radical&title_color=08B8DC&text_color=C8DEE4&bg_color=1A1A1A"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Michael-Philipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=08B8DC&text_color=C8DEE4&bg_color=1A1A1A"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIchael-Philipe&layout=compact&langs_count=7&theme=radical&title_color=08B8DC&text_color=C8DEE4&bg_color=1A1A1A"/>
 </div>
   
 <div style="display: inline_block"><br>
