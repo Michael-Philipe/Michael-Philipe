@@ -16,6 +16,7 @@
 - 📫 How to reach me **michael.philipe2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- My [Linkedin](https://www.linkedin.com/in/michaelphilipe/)
 <p align="left">
 </p>
 
