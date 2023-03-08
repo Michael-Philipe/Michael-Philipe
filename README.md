@@ -16,7 +16,7 @@
 - 📫 How to reach me **michael.philipe2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- My [Linkedin](https://www.linkedin.com/in/michaelphilipe/)
+- My [Meu portfólio](https://michael-portfolio-beta.vercel.app/)
 <p align="left">
 </p>
 
