@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-philipe&label=Profile%20views&color=0e75b6&style=flat" alt="michael-philipe" /> </p>
 
-- 🔭 I’m currently working on [Meu portfólio](https://michael-portfolio-beta.vercel.app/)
+- 🔭 I’m currently working on [My portfolio](https://michael-portfolio-beta.vercel.app/)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Nodejs**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **michael.philipe2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- My [Meu portfólio](https://michael-portfolio-beta.vercel.app/)
+- [My linkedin](https://www.linkedin.com/in/michaelphilipe/)
 <p align="left">
 </p>
 
